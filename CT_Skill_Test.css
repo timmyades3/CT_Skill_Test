@@ -200,6 +200,9 @@
 
     height: 40vh;
   }
+  .nav-logo{
+    width: 37px !important;
+  }
 }
 
 
